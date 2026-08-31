@@ -2,7 +2,7 @@ app_name = "crm_forecast"
 app_title = "CRM Forecast"
 app_publisher = "Custom"
 app_description = "Monthly sales forecast view for Frappe CRM"
-app_email = "admin@example.com"
+app_email = "sirtomww@gmail.com"
 app_license = "MIT"
 app_version = "0.1.0"
 
