@@ -1,4 +1,4 @@
-frappe.pages["sales-forecast"].on_page_load = function (wrapper) {
+frappe.pages["crm-forecast"].on_page_load = function (wrapper) {
     const page = frappe.ui.make_app_page({
         parent: wrapper,
         title: __("Sales Forecast"),

@@ -1,7 +1,7 @@
 {
   "doctype": "Page",
-  "name": "sales-forecast",
-  "page_name": "sales-forecast",
+  "name": "crm-forecast",
+  "page_name": "crm-forecast",
   "module": "CRM Forecast",
   "standard": "Yes",
   "system_page": 0,

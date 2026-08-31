@@ -11,6 +11,6 @@ add_to_apps_screen = [
         "name": "crm_forecast",
         "logo": "/assets/crm_forecast/images/logo.svg",
         "title": "CRM Forecast",
-        "route": "/app/sales-forecast",
+        "route": "/app/crm-forecast",
     }
 ]
