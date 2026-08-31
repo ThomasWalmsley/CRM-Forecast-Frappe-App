@@ -1,0 +1,11 @@
+{
+  "doctype": "Page",
+  "name": "sales-forecast",
+  "page_name": "sales-forecast",
+  "module": "CRM Forecast",
+  "standard": "Yes",
+  "system_page": 0,
+  "title": "Sales Forecast",
+  "icon": "chart-line",
+  "roles": []
+}
