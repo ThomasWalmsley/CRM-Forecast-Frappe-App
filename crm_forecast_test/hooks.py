@@ -1,0 +1,7 @@
+app_name = "crm_forecast_test"
+app_title = "CRM Forecast Test"
+app_publisher = "Custom"
+app_description = "Basic Frappe CRM test application"
+app_email = "admin@example.com"
+app_license = "MIT"
+app_version = "0.0.1"
